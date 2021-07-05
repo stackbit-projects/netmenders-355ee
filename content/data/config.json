@@ -107,15 +107,6 @@
                 "icon": "youtube",
                 "icon_position": "center",
                 "new_window": true
-            },
-            {
-                "label": "Instagram",
-                "url": "https://instagram.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "instagram",
-                "icon_position": "center",
-                "new_window": true
             }
         ],
         "content": "Netmenders. All rights reserved."
