@@ -1,5 +1,5 @@
 ---
-title: Ressources
+title: Resources
 seo:
   title: ''
   description: ''
